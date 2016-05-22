@@ -1,0 +1,44 @@
+.map {
+    z-index: 0;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    background: url('europe.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 3460px;
+    height: 2725px;
+}
+
+
+.gridTable {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 90;
+    width: 3460px;
+    height: 2725px;
+    border-collapse: collapse;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+.overflow {
+    border-radius: 50px;
+    position: fixed;
+    top: 10px;
+    left: 30px;
+    padding: 10px;
+    background-color:rgba(0, 0, 0, 0.5);
+    z-index: 100;
+}
+
+.details{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+    color: white;
+    height: 30px;
+    width: 120px;
+}

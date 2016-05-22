@@ -1,0 +1,347 @@
+{
+    "Helsinki": {
+        "owner": "fin",
+        "x": 126,
+        "y": 25
+    },
+    "Oulu": {
+        "owner": "fin",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Stockholm": {
+        "owner": "swe",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Gothenburg": {
+        "owner": "swe",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Oslo": {
+        "owner": "nor",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Bergen": {
+        "owner": "nor",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Tallinn": {
+        "owner": "est",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Riga": {
+        "owner": "lat",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Vilnius": {
+        "owner": "lit",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Warsaw": {
+        "owner": "pol",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Łódź": {
+        "owner": "pol",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Wroclaw": {
+        "owner": "pol",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Berlin": {
+        "owner": "ger",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Hanover": {
+        "owner": "ger",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Frankfurt": {
+        "owner": "ger",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Hamburg": {
+        "owner": "ger",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Dortmund": {
+        "owner": "ger",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Amsterdam": {
+        "owner": "net",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Copenhagen": {
+        "owner": "den",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Brussels": {
+        "owner": "belg",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "London": {
+        "owner": "uk",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Manchester": {
+        "owner": "uk",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Edinburgh": {
+        "owner": "uk",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Liverpool": {
+        "owner": "uk",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Glasgow": {
+        "owner": "uk",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Paris": {
+        "owner": "fra",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Marseille": {
+        "owner": "fra",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Toulouse": {
+        "owner": "fra",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Lyon": {
+        "owner": "fra",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Madrid": {
+        "owner": "spa",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Barcelona": {
+        "owner": "spa",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Valencia": {
+        "owner": "spa",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Malaga": {
+        "owner": "spa",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Lisbon": {
+        "owner": "por",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Porto": {
+        "owner": "por",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Dublin": {
+        "owner": "ire",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Reykjavik": {
+        "owner": "ice",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Rome": {
+        "owner": "ita",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "San Marino": {
+        "owner": "ita",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Milan": {
+        "owner": "ita",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Prague": {
+        "owner": "cze",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Brno": {
+        "owner": "cze",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Ostrava": {
+        "owner": "czr",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Vienna": {
+        "owner": "aus",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Graz": {
+        "owner": "aus",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Ljubljana": {
+        "owner": "slov",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Zagreb": {
+        "owner": "cro",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Sarajevo": {
+        "owner": "bos",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Budapest": {
+        "owner": "hub",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Bratislava": {
+        "owner": "slova",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Belgrade": {
+        "owner": "ser",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Sofia": {
+        "owner": "bul",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Bucharest": {
+        "owner": "rom",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Cluj-Napoca": {
+        "owner": "rom",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Ankara": {
+        "owner": "tur",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Istanbul": {
+        "owner": "tur",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Antalya": {
+        "owner": "tur",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Athens": {
+        "owner": "gre",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Tirana": {
+        "owner": "alb",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Kiev": {
+        "owner": "ukr",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Odessa": {
+        "owner": "ukr",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Kharkiv": {
+        "owner": "ukr",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Minsk": {
+        "owner": "bela",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Gomel": {
+        "owner": "bela",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Chisnau": {
+        "owner": "mol",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Moscow": {
+        "owner": "rus",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "St Petersburg": {
+        "owner": "rus",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Voronezh": {
+        "owner": "rus",
+        "x": 0.1,
+        "y": 0.2
+    },
+    "Volgograd": {
+        "owner": "rus",
+        "x": 0.1,
+        "y": 0.2
+    }
+}
