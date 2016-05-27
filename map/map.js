@@ -2,28 +2,27 @@ $(document).ready(function () {
     var tiles = JSON.parse(fs.readFileSync('map/tiles.json', 'utf8'));
     var countries = JSON.parse(fs.readFileSync('map/countries.json', 'utf8'));
     var cities = JSON.parse(fs.readFileSync('map/cities.json', 'utf8'));
-    
+
     var row_count = 100;
     var col_count = 200;
-    
+
     initTiles();
-    
-    $(".map").scrollingCarousel();
+
     
     $('.zoomOut').click(function(){
-        console.log('zoom out');   
+        console.log('zoom out');
         $('.map').width(
             $('.map').width() * 0.7
         );
         $('.map').height(
             $('.map').height() * 0.7
         );
-        
+
         $('.gridTable').width(
             $('.gridTable').width() * 0.7
         );
         $('.gridTable').height(
-            
+
             $('.gridTable').height() * 0.7
         );
     });
@@ -35,7 +34,7 @@ $(document).ready(function () {
         $('.map').height(
             $('.map').height() * 1.3
         );
-        
+
        $('.gridTable').width(
             $('.gridTable').width() * 1.3
         );
@@ -43,7 +42,7 @@ $(document).ready(function () {
             $('.gridTable').height() * 1.3
         );
     });
-    
+
     //Show details on hover
     $(".col").hover(function(){
         //Mouse in
@@ -54,18 +53,18 @@ $(document).ready(function () {
         //Show details
         $('.details').html("X: " + x + " Y: " + y);
     }, function(){
-        //Mouse out 
+        //Mouse out
     });
-    
+
     //Open tile window on click
     $(".tile").click(function(){
        //Click
        var x = $(this).attr('col');
        var y = $(this).attr('row');
-       
+
     });
-    
-    function initTiles(){        
+
+    function initTiles(){
         for (var i = 1; i <= row_count; i++) {
             $('.gridTable > tbody:last-child').append('<tr class="' + i + ' row"></tr>');
             var thisRow = $('tr.row.' + i);
@@ -74,7 +73,7 @@ $(document).ready(function () {
             }
         }
     }
-    
+
     function updateTile(x, y, tile){
         //tile is {type, resource, owner}
     }
